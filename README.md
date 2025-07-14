@@ -40,9 +40,4 @@ In this notebook:
 | Matplotlib   | General plotting                |
 | Scikit-learn | Machine learning models         |
 
-## 🚀 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/SnehaDebnath678/number-of-order-prediction.git
-   cd number-of-order-prediction
